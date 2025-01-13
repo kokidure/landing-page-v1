@@ -9,6 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kokidure/kokidure/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kokidure/landing-page-v1/refs/heads/master/.github/workflows/snake.yml?token=GHSAT0AAAAAAC5IYVPUP6UZAMSXU6SBBBYYZ4FPD3Q" />
 
 ###
