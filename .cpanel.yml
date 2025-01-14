@@ -2,10 +2,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/kokidurecom/public_html/
-    - /bin/cp -R .vscode $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R fonts $DEPLOYPATH
-    - /bin/cp -R img $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp * $DEPLOYPATH
+    - /bin/cp -R forms $DEPLOYPATH
+    - /bin/cp blog-details.html $DEPLOYPATH
+    - /bin/cp blog.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp portfolio-details.html $DEPLOYPATH
+    - /bin/cp service-details.html $DEPLOYPATH
+    - /bin/cp starter-page.html $DEPLOYPATH
